@@ -1,7 +1,8 @@
 # Calculator-App
 
-## Calculator
+*Calculator*
 
+![](https://github.com/TLABEGO/Calculator-App/blob/master/sample.png)
 This is a basic calculator App that was build using core Java and the Swing framework. The above picture shows exactly how the  calculator looks like in action.
 
 Check out some of the code snippets below 
