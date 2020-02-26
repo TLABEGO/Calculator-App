@@ -4,13 +4,13 @@
 
 
 
-**This is a basic calculator App that was build using core Java and the Swing framework. below showing how the  calculator looks like in action.**
+*This is a basic calculator App that was build using core Java and the Swing framework. below showing how the  calculator looks like in action.*
 
 
 
 ![](https://github.com/TLABEGO/Calculator-App/blob/master/sample.png)
 
-Check out some of the code snippets below 
+*Check out some of the code snippets below* 
 
 
 ```java
