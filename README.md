@@ -4,11 +4,11 @@
 
 
 
-*This is a basic calculator App that i built using core Java and the Swing framework.
-Some of the functions included in the calculator are 
-*
+*This is a basic calculator App that i built using core Java and the Swing framework*
+*Some of the functions included in the calculator are* 
 
 *The picture below shows how the calculator looks like in action.*
+
 a) Computing addition calculations
 b) Computing subtraction calculations
 c) Computing multiplicatin calculations
