@@ -4,7 +4,7 @@
 
 This is a basic calculator App that was build using core Java and the Swing framework. The above picture shows exactly how the  calculator looks like in action.
 
-Check out some of the code snippeTs below 
+Check out some of the code snippets below 
 
 
 ```java
@@ -27,6 +27,8 @@ Check out some of the code snippeTs below
   
   
   
+  
+  
  ```java
  /**
 	 * Create the application.
@@ -36,6 +38,9 @@ Check out some of the code snippeTs below
 	}
 
  ```
+
+
+
 
 
 ```java
