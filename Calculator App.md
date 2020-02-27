@@ -4,15 +4,15 @@
 
 
 
-*This is a basic calculator App that i built using core Java and the Swing framework*
-*Some of the functions included in the calculator are* 
+*This is a basic calculator App that i built using core Java and the Swing framework. *
+*Some of the functions included in the calculator include* 
+
+* Computing addition calculations
+* Computing subtraction calculations
+* Computing multiplicatin calculations
+* Computing devision calculations
 
 *The picture below shows how the calculator looks like in action.*
-
-a) Computing addition calculations
-b) Computing subtraction calculations
-c) Computing multiplicatin calculations
-b) Computing devision calculations
 
 ![](https://github.com/TLABEGO/Calculator-App/blob/master/sample.png)
 
