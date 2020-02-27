@@ -4,8 +4,8 @@
 
 
 
-*This is a basic calculator App that i built using core Java and the Swing framework. *
-*Some of the functions included in the calculator include* 
+This is a basic calculator App that i built using core Java and the Swing framework. 
+Some of the functions included in the calculator include 
 
 * Computing addition calculations
 * Computing subtraction calculations
@@ -16,8 +16,10 @@
 
 ![](https://github.com/TLABEGO/Calculator-App/blob/master/sample.png)
 
-*Check out some of the code snippets below* 
+*Check out some of the code snippets that i used to launch the application, create the application and initialize the contents of the frame below*
 
+
+*Launching the application*
 
 ```java
 /**
@@ -40,7 +42,7 @@
   
   
   
-  
+  *Creating the application*
  ```java
  /**
 	 * Create the application.
@@ -55,6 +57,7 @@
 
 
 
+*Initializing the contents of the frame*
 ```java
 	/**
 	 * Initialize the contents of the frame.
