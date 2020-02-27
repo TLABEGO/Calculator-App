@@ -5,8 +5,7 @@
 
 
 This is a basic calculator App that i built using core Java and the Swing framework. 
-Some of the functions included in the calculator include 
-
+I listed some of the functions that the calculator posssess below: 
 * Computing addition calculations
 * Computing subtraction calculations
 * Computing multiplicatin calculations
